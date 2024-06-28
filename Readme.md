@@ -48,7 +48,7 @@
     ```
 3. Converter a video to MP3 with default filename and foldername:
     ```python
-    ffrom converter import VideoToAudioConverter
+    from converter import VideoToAudioConverter
 
     video_file = "videos/happy-nation.mp4"
     converter = VideoToAudioConverter(video_file)
