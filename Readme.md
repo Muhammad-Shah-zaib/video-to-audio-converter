@@ -13,7 +13,7 @@
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/video-to-audio-converter.git
+    git clone https://github.com/Muhammad-Shah-zaib/video-to-audio-converter
     cd video-to-audio-converter
     ```
 
@@ -75,10 +75,9 @@
 
     video_file = "videos/happy-nation.mp4"
     VideoToAudioConverter.convert_video_to_mp3(video_file, output_folder="audios")
-    ```
 
-## File structure
-can you write makrdown for this video-to-audio-converter/
+## File strcuture
+project_folder/
 │
 ├── converter.py # Contains the VideoToAudioConverter class
 ├── videos/ # Directory containing video files
@@ -86,4 +85,4 @@ can you write makrdown for this video-to-audio-converter/
 └── audios/ # Directory to save the converted MP3 files
 
 > [!TIP]
-> I also have provided a happy-nation.mp4 file in videos folder that you can use for testing.
+> I also have provided a **happy-nation.mp4** file in **videos** folder that you can use for testing.
