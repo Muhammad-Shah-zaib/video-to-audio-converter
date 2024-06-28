@@ -80,7 +80,7 @@
 ## File strcuture
 - project_folder/
 - │
-- ├── converter.py # Contains the VideoToAudioConverter class
+- ├── VideoToAudioConverter.py # Contains the VideoToAudioConverter class
 - ├── videos/ # Directory containing video files
 -   └── happy-nation.mp4 # Example video file for testing purposes
 
