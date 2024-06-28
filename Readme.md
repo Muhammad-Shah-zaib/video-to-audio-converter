@@ -1,6 +1,6 @@
 # Video to Audio Converter
 > [!NOTE]
-> This project contains a python class `VideoToAudioConverter`, that can convert a .mp4 file into .mp3
+> This project contains a python class `VideoToAudioConverter`, that can convert a .mp4 file into .mp3, by using moviepy library.
 
 ## Features
 
@@ -17,7 +17,7 @@
     cd video-to-audio-converter
     ```
 
-2. Installing the moviepy:
+2. Installing the moviepy (if you don't have):
     ```sh
     pip install moviepy
     ```
