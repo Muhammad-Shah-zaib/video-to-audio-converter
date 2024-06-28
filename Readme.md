@@ -77,12 +77,12 @@
     VideoToAudioConverter.convert_video_to_mp3(video_file, output_folder="audios")
 
 ## File strcuture
-project_folder/
-│
-├── converter.py # Contains the VideoToAudioConverter class
-├── videos/ # Directory containing video files
-│ └── happy-nation.mp4 # Example video file for testing purposes
-└── audios/ # Directory to save the converted MP3 files
+- project_folder/
+- │
+- ├── converter.py # Contains the VideoToAudioConverter class
+- ├── videos/ # Directory containing video files
+- │ └── happy-nation.mp4 # Example video file for testing purposes
+- └── audios/ # Directory to save the converted MP3 files
 
 > [!TIP]
 > I also have provided a **happy-nation.mp4** file in **videos** folder that you can use for testing.
