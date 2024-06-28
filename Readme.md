@@ -81,8 +81,7 @@
 - │
 - ├── converter.py # Contains the VideoToAudioConverter class
 - ├── videos/ # Directory containing video files
-- │ └── happy-nation.mp4 # Example video file for testing purposes
-- └── audios/ # Directory to save the converted MP3 files
+-   └── happy-nation.mp4 # Example video file for testing purposes
 
 > [!TIP]
 > I also have provided a **happy-nation.mp4** file in **videos** folder that you can use for testing.
