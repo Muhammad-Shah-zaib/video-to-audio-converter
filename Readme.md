@@ -75,6 +75,7 @@
 
     video_file = "videos/happy-nation.mp4"
     VideoToAudioConverter.convert_video_to_mp3(video_file, output_folder="audios")
+    ```
 
 ## File strcuture
 - project_folder/
